@@ -3,7 +3,7 @@
 - 👀 I have in-depth knowledge of html/scss/jquery , angular 2/3/4/5/6/7/8/9/10/11, typescript, d3js, highchart, angular material.
 - 🌱 I’m currently doing as a front-end developer.
 - 👀 I have strong experience in fast coding and the ability to troubleshoot and analyze.
-- 💞️ I’m looking to collaborate on jobs whick need front-end developer.
+- 💞️ I’m looking to collaborate on jobs which need front-end developer.
 - 👀 I have ability to work effectively in a collaborative environment with an overseas team based around the world.
 - 📫 How to reach me: send me email: misscoder@hotmail.
 
