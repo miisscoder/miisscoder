@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on jobs which need front-end developer.
 - 👀 I have ability to work effectively in a collaborative environment with an overseas team based around the world.
 - 📫 How to reach me: send me email: misscoder@hotmail.
-
-
-
-- 📫 links: d3js -- https://observablehq.com/d/b1a8608979afbe47
+- 📫 links:  
+- Github:   https://github.com/miisscoder?tab=repositories
+- Topcoder: https://www.topcoder.com/members/OoO-Oly 
+- D3js:     https://observablehq.com/@miisscoder
