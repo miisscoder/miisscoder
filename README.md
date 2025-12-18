@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @miisscoder
-- 👀 I have 5+ years of Software Development experience with emphasis on Front-End UI/UX Development.
-- 👀 I have in-depth knowledge of html/scss/jquery, angular 2/3/4/5/6/7/8/9/10/11/12/13/14, rxjs, typescript, d3js, highchart, angular material, kendle UI.
-- 🌱 I’m currently doing as a front-end developer.
-- 👀 I have strong experience in fast coding and the ability to troubleshoot and analyze.
-- 💞️ I’m looking to collaborate on jobs which need front-end developer.
-- 👀 I have ability to work effectively in a collaborative environment with an overseas team based around the world.
-- 📫 How to reach me: send me email: misscoder@hotmail.
-- 📫 links:  
-- Github:   https://github.com/miisscoder?tab=repositories
-- Topcoder: https://www.topcoder.com/members/OoO-Oly 
-- D3js:     https://observablehq.com/@miisscoder
+### Hi there 👋 I'm Meredith (Oakley)
+
+**Full-Stack Developer | Building for the Web & Mobile**
+
+I build scalable applications with modern web technologies. My current focus is on creating practical full-stack solutions.
+
+🚀 **Featured Project: Baby Meal Tracker**
+A production-ready full-stack application for tracking infant nutrition.
+- **Frontend**: Ionic/Angular, auto-deployed on Vercel
+- **Backend**: Node.js/Express REST API
+- **Database**: PostgreSQL with Neon (Serverless)
+- **Live Demo**: [baby-meal-frontend.vercel.app](https://baby-meal-frontend.vercel.app)
+
+🛠️ **Tech Stack**
+`JavaScript` | `TypeScript` | `Angular` | `Node.js` | `Express` | `PostgreSQL` | `Git` | `Vercel` | `Neon`
+
+📫 **How to reach me**
+- Professional Network: [LinkedIn](#)
+- Tech Thoughts & Build Logs: [[Twitter/X @Oakley_OoO_](https://x.com/Oakley_OoO_) 
+
+⚡ **Fun fact**: I code between naps 🍼.
