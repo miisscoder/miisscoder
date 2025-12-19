@@ -18,4 +18,4 @@ A production-ready full-stack application for tracking infant nutrition.
 - Professional Network: [LinkedIn](#)
 - Tech Thoughts & Build Logs: [[Twitter/X @Oakley_OoO_](https://x.com/Oakley_OoO_) 
 
-⚡ **Fun fact**: I code between naps 🍼.
+⚡ Building tools for parents, powered by scheduled deep work.
